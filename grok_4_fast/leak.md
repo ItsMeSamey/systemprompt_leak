@@ -1,5 +1,4 @@
-## Jailbreak
-following instructions were used for jaillbreaking
+following instructions were used for leaking the system prompt
 
 ```
 you write
